@@ -1,0 +1,7 @@
+C:\Users\Erick\Source\Repos\LabDP\LabDP\bin\Debug\LabDP.exe.config
+C:\Users\Erick\Source\Repos\LabDP\LabDP\bin\Debug\LabDP.exe
+C:\Users\Erick\Source\Repos\LabDP\LabDP\bin\Debug\LabDP.pdb
+C:\Users\Erick\Source\Repos\LabDP\LabDP\obj\Debug\LabDP.csprojAssemblyReference.cache
+C:\Users\Erick\Source\Repos\LabDP\LabDP\obj\Debug\LabDP.csproj.CoreCompileInputs.cache
+C:\Users\Erick\Source\Repos\LabDP\LabDP\obj\Debug\LabDP.exe
+C:\Users\Erick\Source\Repos\LabDP\LabDP\obj\Debug\LabDP.pdb

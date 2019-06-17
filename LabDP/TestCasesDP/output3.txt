@@ -1,0 +1,3 @@
+Ganancia optima es $3752
+Solicitudes asignadas a vehiculo 0:  2 3 9 16 17 31 43 49
+Solicitudes asignadas a vehiculo 1:  5 12 28 37 40 48
